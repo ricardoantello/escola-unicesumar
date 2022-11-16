@@ -21,6 +21,9 @@
   <a href="listarCurso.php">  <font color="black"> CADASTROS DE CURSOS </font>   </a>
   <br> <br>
 
+  <a href="listarprofessor.php">  <font color="black"> CADASTROS DE PROFESSORES </font>   </a>
+  <br> <br>
+
  <br>  <br> <br>  <br>
  <br>  <br> <br>  <br>
  <br>  <br> <br>  <br>
